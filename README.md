@@ -563,7 +563,7 @@ $$\vec{E}=-\nabla \varphi-\frac{\partial \vec{A}}{\partial t}$$
 
 Потенциальная энергия взаимодействия электрона с положительно заряженным ядром определяется законом Кулона $U(r)=-e^2 / r$. 
 Учитывая значение константы $\lambda=l(l+1)$ в уравнении для радиальной функции стационарного УШ, имеем:
-$$\left\{\frac{\partial}{\partial r}\left(r^2 \frac{\partial}{\partial r}\right)+\frac{2 m r^2}{\hbar^2}\left(E+\frac{e^2}{r}\right)\right\} R(r)=l(l+1) R(r)$$
+$$\left\(\frac{∂}{∂ r}\left(r^2 \frac{∂}{∂ r}\right)+\frac{2 m r^2}{\hbar^2}\left(E+\frac{e^2}{r}\right)\right\) R(r)=l(l+1) R(r)$$
 
 $$\hat{H}=-\frac{\hbar^2}{2 m} \nabla^2+U(r)$$
 
