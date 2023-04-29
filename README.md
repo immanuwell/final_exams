@@ -50,8 +50,7 @@ $$f(\omega, T)=\frac{c}{4} \cdot k T \frac{\omega^2}{\pi^2 c^3}=\frac{\omega^2}{
 
 
 **1 закон излучения Вина:**
-$$u(\nu)=\nu^3 f\left(\frac{\nu}{T}\right) \\
-u(\lambda)=\lambda^{-5} f\left(\frac{c}{\lambda T}\right)$$
+$$u(\nu)=\nu^3 f\left(\frac{\nu}{T}\right)\\ u(\lambda)=\lambda^{-5} f\left(\frac{c}{\lambda T}\right)$$
 
 где f — функция, зависящая исключительно от отношения частоты к температуре. Установить её вид только из термодинамических соображений невозможно.
 
