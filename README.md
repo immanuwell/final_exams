@@ -374,7 +374,7 @@ $$d G=d F-d(T S)=-S d T+V d p$$
 
 
 Рассмотрим движение частицы в бесконечно глубокой потенциальной яме. Потенциальная энергия такова:
-$$U(x)=0, \text{ при } 0<x<a, \qquad U(x) = \infty \text{ при } x \leqslant 0, x \geqslant a$$
+$$U(x)=0, \text{ при } 0 < x < a, \qquad U(x) = \infty \text{ при } x \leqslant 0, x \geqslant a$$
 
 Поскольку частица заключена между бесконечно высокими стенками, то $\psi(x)=0$ при $x \leq 0$ и $x \geq 0$. В области $0 \leq x \leq 0$ она движется свободно
 $$\psi^{\prime \prime}(x)+\frac{2 m}{\hbar^2} E \psi(x)=0$$
